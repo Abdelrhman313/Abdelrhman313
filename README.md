@@ -1,5 +1,11 @@
 ### Hi there, I'm Abdelrhman Yasser 👋
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 <!--
 **Abdelrhman313/Abdelrhman313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +23,3 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdelrhman313&theme=shades-of-purple" width="400">
 
-<a href="" target="blank"><img align="center" src="" height="100" /></a>
