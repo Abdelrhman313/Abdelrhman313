@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges"  align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/abdelrhman-yasser-0650421b2/)">
+  <a href="https://www.linkedin.com/in/abdelrhman-yasser-0650421b2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="abdelrhmanyasser77@gmail.com">
@@ -16,7 +16,7 @@
   </a>
 </div>
 <h1 align="center">
-  hey there, I'm Abdelrhman Yasser
+  Hey there, I'm Abdelrhman Yasser
 </h1>
 
 <div align="center">
@@ -31,7 +31,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me:<a href="[your-linkedin-URL](https://www.linkedin.com/in/abdelrhman-yasser-0650421b2/)">
+- :mailbox:How to reach me:<a href="https://www.linkedin.com/in/abdelrhman-yasser-0650421b2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
