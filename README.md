@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman313&show_icons=true&theme=shades-of-purple" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abdelrhman313&theme=shades-of-purple" width="400">
 
