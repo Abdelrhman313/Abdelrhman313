@@ -33,8 +33,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([your-linkedin-url](https://www.linkedin.com/in/abdelrhman-yasser-0650421b2/))
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+- :mailbox:How to reach me:<a href="your-linkedin-URL"><img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)"alt="LinkedIn Badge"/></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
